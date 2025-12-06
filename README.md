@@ -67,6 +67,5 @@ The input bindings are set in `lib/game/main.js`:
 
 ## 📝 Credits
 
-* **Original Tutorial & Assets:** This project is based entirely on the instructional material and accompanying assets from [Insert the name of the book or tutorial source here].
 * **Game Engine:** ImpactJS
 * **Developer:** Arrow-sudo531
