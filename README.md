@@ -17,6 +17,18 @@ A classic side-scrolling platformer built using the **ImpactJS Game Engine** for
 
 ---
 
+## 🖼️ Screenshots
+
+Screenshots are placed here to visually demonstrate key features and development progress. Ensure all image files are uploaded to an `assets/` folder in your repository.
+
+#### Gameplay & Combat
+A hero faces off against a raver zombie, demonstrating active collision and weapon usage.
+![Screenshot 1: Gameplay and Zombie Encounter](Screenshot-1.png)
+
+![Screenshot 2](Screenshot-2.png)
+
+---
+
 ## 💻 Tech Stack & Setup
 
 ### Prerequisites
@@ -48,8 +60,8 @@ The input bindings are set in `lib/game/main.js`:
 | :--- | :--- | :--- |
 | **Move Left** | Left Arrow | Horizontal movement |
 | **Move Right** | Right Arrow | Horizontal movement |
-| **Jump** | SPACE Key | Vertical jump |
-| **Shoot** | F Key | Fire the active weapon (Bullet or Grenade) |
+| **Jump** | **SPACE Key** | Vertical jump |
+| **Shoot** | **F Key** | Fire the active weapon (Bullet or Grenade) |
 | **Switch Weapon** | TAB Key | Cycles between the two available weapons |
 
 ---
